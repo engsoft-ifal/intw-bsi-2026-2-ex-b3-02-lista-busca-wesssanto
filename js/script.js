@@ -1,10 +1,7 @@
 const cursos = [
   "HTML5 e CSS3",
   "JavaScript Moderno",
-  "Lógica de Programação",
-  "Git e GitHub",
-  "Banco de Dados SQL",
-  "React Básico"
+  "Lógica de Programação"
 ];
 
 const lista = document.querySelector("#lista");
